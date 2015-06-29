@@ -1,0 +1,21 @@
+{
+  "name": "sprangular-events",
+  "version": "0.0.1",
+  "authors": [
+    "Hugo Bastien <hugobast@gmail.com>"
+  ],
+  "description": "A Sprangular module that adds some notifications unobtrusively",
+  "main": [
+    "sprangular_events.coffee",
+    "providers/notifications.coffee"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sprangular/sprangular_events",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
